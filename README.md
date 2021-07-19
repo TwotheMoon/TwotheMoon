@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/artist/2VEhCJcrJVAkHDTEMofdiM">
-  <iframe src="https://open.spotify.com/embed/album/4W5xLjk932JgFdIsHANQuq" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <img src="https://open.spotify.com/embed/album/4W5xLjk932JgFdIsHANQuq">
   </a>
 </p>
 
