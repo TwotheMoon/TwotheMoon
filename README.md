@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Eclipse-3766AB?style=flat-square&logo=Eclipse&logoColor=white"/></a>
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache Tomcat-FCC624?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a>
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
