@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/artist/2VEhCJcrJVAkHDTEMofdiM">
-    img src="https://open.spotify.com/album/4W5xLjk932JgFdIsHANQuq?si=KCyjhyumRXCRmDmbB7-nOA&dl_branch=1">
+    <img src="https://open.spotify.com/album/4W5xLjk932JgFdIsHANQuq?si=KCyjhyumRXCRmDmbB7-nOA&dl_branch=1">
   </a>
 </p>
 
