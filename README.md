@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://open.spotify.com/artist/2VEhCJcrJVAkHDTEMofdiM">
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
   </a>
 </p>
 
