@@ -14,7 +14,7 @@
 ## ⚡ Tool & OS & Server
 <img src="https://img.shields.io/badge/Eclipse-3766AB?style=flat-square&logo=Eclipse&logoColor=white"/></a>
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
