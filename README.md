@@ -1,1 +1,4 @@
-JavaScript Nodejs Python React Java C++ HTML5 CSS3 Bootstrap TypeScript MongoDB Redis ElasticSearch GraphQL Apollo GraphQL PostgreSQL MySQL Heroku Docker DigitalOcean Amazon AWS Microsoft Azure Google Cloud Git GitHub GitLab BitBucket Raspberry Pi
+
+
+## ⚡ Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
