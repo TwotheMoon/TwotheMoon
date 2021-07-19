@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
+  <a href="https://open.spotify.com/artist/2VEhCJcrJVAkHDTEMofdiM">
     <img src="https://andyruwruw.vercel.app/api/now-playing">
   </a>
 </p>
