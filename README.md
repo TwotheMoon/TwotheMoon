@@ -19,5 +19,5 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
-![Apache2](https://img.shields.io/badge/Eclipse-black?style=flat-square&logo=apache)
+![Apache2](https://img.shields.io/badge/Eclipse IDE-black?style=flat-square&logo=eclipse)
 
