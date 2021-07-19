@@ -19,5 +19,4 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
-<img src="https://img.shields.io/badge/Python-#2C2255?style=flat-square&logo=Eclipse IDE
-logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
