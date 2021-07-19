@@ -19,4 +19,4 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<img src="https://img.shields.io/badge/ASUS-FCC624?style=flat-square&logo=ASUS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ASUS-000000?style=flat-square&logo=ASUS&logoColor=white"/></a>
