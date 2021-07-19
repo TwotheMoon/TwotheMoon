@@ -1,5 +1,5 @@
 <h2>
-  i really like music :headphones:
+  Developed with music! :headphones:
 </h2>
 
 <p align="center">
