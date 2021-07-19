@@ -1,6 +1,6 @@
-<h1>
+<h2>
   i really like music :headphones:
-</h1>
+</h2>
 
 <p align="center">
   <a href="https://open.spotify.com/artist/2VEhCJcrJVAkHDTEMofdiM">
@@ -8,6 +8,9 @@
   </a>
 </p>
 
+<h1>
+  Languages and Tools :computer:
+</h1>
 ### ⚡ FrontEnd
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
