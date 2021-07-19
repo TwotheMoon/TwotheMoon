@@ -34,5 +34,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <h3>
-  <a href="2themoon.iptime.org"> 2theMoon's Web Server :houses: </a>
+  <img src="https://img.shields.io/badge/2theMoon's Web Server-F7DF1E?style=flat-square&logo=GoogleChrome&logoColor=white"/></a>
 </h3>
