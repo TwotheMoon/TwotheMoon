@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/Apache Tomcat-cc9999?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=KaliLinux&logoColor=white"/></a>
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
