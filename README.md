@@ -37,9 +37,9 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
 <h3>
-  <span> :houses: come to my house </span>
+  <span> :houses: Come to my house! </span>
 </h3>
  <a href="http://2themoon.iptime.org/"> 
-    <img src="https://img.shields.io/badge/2theMoon's Web Server-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
+  :crescent_moon: <img src="https://img.shields.io/badge/2theMoon's Web Server-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
   </a>
-    <img src="https://img.shields.io/badge/dlaguddh1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  :envelope: <img src="https://img.shields.io/badge/dlaguddh1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
