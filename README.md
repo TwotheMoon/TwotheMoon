@@ -37,12 +37,12 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
 <h3>
-  <span> :houses: Come to my house! </span>
+  <span> :crescent_moon: Come to my house! </span>
 </h3>
  <a href="http://2themoon.iptime.org/"> 
-    <img src="https://img.shields.io/badge/2theMoon's Web Server-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>:crescent_moon: 
+    <img src="https://img.shields.io/badge/2theMoon's Web Server-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/> 
  </a>
  <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=2theMoon"> 
-    <img src="https://img.shields.io/badge/2theMoon's profile -03C75A?style=flat-square&logo=Naver&logoColor=white"/>:musical_keyboard: 
+    <img src="https://img.shields.io/badge/2theMoon's profile -03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
  </a>
     <img src="https://img.shields.io/badge/dlaguddh1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
