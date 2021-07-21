@@ -42,5 +42,4 @@
  <a href="http://2themoon.iptime.org/"> 
   :crescent_moon: <img src="https://img.shields.io/badge/2theMoon's Web Server-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
   </a>
-  <br />
-  :envelope: <img src="https://img.shields.io/badge/dlaguddh1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+   <img src="https://img.shields.io/badge/dlaguddh1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
