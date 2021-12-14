@@ -20,18 +20,14 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-333300?style=flat-square&logo=Node.js)
 ## 🗃️ DBMS
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-![MongoDB](https://img.shields.io/badge/-MongoDB-9999cc?style=flat-square&logo=mongodb)
+<img src="https://img.shields.io/badge/Oracle-C51A4A?style=flat-square&logo=Oracle&logoColor=white"/></a> 
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-9999cc?style=flat-square&logo=mongodb) -->
 ## 🧰 Tool & OS & Server
-<img src="https://img.shields.io/badge/ASUS-000000?style=flat-square&logo=ASUS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Eclipse-3766AB?style=flat-square&logo=Eclipse&logoColor=white"/></a>
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=KaliLinux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Tomcat-cc9999?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a>
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
