@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 ![React](https://img.shields.io/badge/-React-000099?style=flat-square&logo=react)
 ## 🧠 BackEnd
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-333300?style=flat-square&logo=Node.js)
 ## 🗃️ DBMS
 <img src="https://img.shields.io/badge/Oracle-C51A4A?style=flat-square&logo=Oracle&logoColor=white"/></a> 
