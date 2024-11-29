@@ -36,7 +36,7 @@
  <a href="http://2themoon.iptime.org/"> 
     <img src="https://img.shields.io/badge/2theMoon's Web Server-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/> 
  </a>
- <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=2theMoon"> 
+ <a href="https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjky&pkid=1&os=18376878&qvt=0&query=2themoon"> 
     <img src="https://img.shields.io/badge/2theMoon's profile -03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
  </a>
     <img src="https://img.shields.io/badge/dlaguddh1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
